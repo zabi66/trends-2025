@@ -1,0 +1,143 @@
+body {
+  overflow-x: hidden;
+  background-color: #fff;
+}
+.logo {
+  width: 80%;
+  height: auto;
+  position: absolute;
+  top: 50px;
+  left: 100px;
+}
+
+ul {
+  list-style: none;
+  font-size: 30px;
+  position: relative;
+  left: 400px;
+  top: 30px;
+}
+li {
+  display: inline-block;
+  margin: 0 10px;
+}
+li:hover {
+  text-decoration-line: underline;
+  font-size: 35px;
+  font-weight: bold;
+}
+.nav-button {
+  position: absolute;
+  top: 9%;
+  right: 8%;
+  width: 260px;
+  height: 40px;
+  font-size: 16px;
+  padding: 0px 30px 0px 40px;
+  border-radius: 40px;
+  border: black transparent 3px;
+}
+::placeholder {
+  color: grey;
+  font-size: 20px;
+  text-align: center;
+  width: 100px;
+}
+.search-icon {
+  position: absolute;
+  top: 9%;
+  right: 27%;
+}
+.square {
+  position: absolute;
+  top: 49%;
+  left: 20%;
+}
+.image {
+  width: auto;
+  height: 70%;
+  position: absolute;
+  top: 19%;
+  left: 6%;
+}
+
+.hero-heading {
+  position: absolute;
+  top: 24%;
+  left: 45%;
+  font-size: 58px;
+  font-weight: 800;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.hero-description {
+  position: absolute;
+  top: 40%;
+  left: 48%;
+  text-align: center;
+  font-size: 18px;
+}
+.button-email {
+  position: absolute;
+  top: 60%;
+  left: 58%;
+  font-size: 15px;
+  width: 150px;
+  height: 30px;
+  background-color: transparent;
+  border-radius: 1rem;
+  text-transform: uppercase;
+}
+.button-join {
+  position: absolute;
+  top: 60%;
+  left: 69%;
+  color: #fff;
+  width: 100px;
+  height: 30px;
+  font-size: 16px;
+  background-color: #000;
+  border-radius: 1rem;
+  text-transform: uppercase;
+}
+.contact-heading {
+  position: absolute;
+  top: 70%;
+  left: 64%;
+  font-size: 30px;
+  font-weight: 100;
+}
+.facebook {
+  position: absolute;
+  top: 85%;
+  left: 62%;
+}
+.messenger {
+  position: absolute;
+  top: 85%;
+  left: 66%;
+}
+.instagram {
+  position: absolute;
+  top: 85%;
+  left: 70%;
+}
+.whatapp {
+  position: absolute;
+  top: 85%;
+  left: 74%;
+}
+.globe {
+  position: absolute;
+  top: 18%;
+  left: 55%;
+}
+.star {
+  position: absolute;
+  top: 18%;
+  left: 84%;
+}
+.star1 {
+  position: absolute;
+  top: 630%;
+  right: 850%;
+}
